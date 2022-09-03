@@ -14,6 +14,7 @@ PRODUCT_PACKAGES += \
     MatLog \
     Gallery2 \
     OmniStyle \
+    OmniSwitch \
     messaging \
     WallpaperPicker2 \
     ThemePicker \
